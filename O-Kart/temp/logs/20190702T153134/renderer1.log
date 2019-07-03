@@ -1,0 +1,18 @@
+[2019-07-02 15:31:36.997] [renderer1] [error] Error: Error: ENOENT: no such file or directory, stat '/home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/.vscode'
+[2019-07-02 15:31:41.157] [renderer1] [warning] UNRESPONSIVE extension host, 'steoates.autoimport' took 53% of 454.093ms, saved PROFILE here: '/tmp/exthost-3032a1.cpuprofile' [{"id":"gc","total":3450,"percentage":1},{"id":"program","total":2080,"percentage":0},{"id":"self","total":173341,"percentage":38},{"id":"steoates.autoimport","total":240748,"percentage":53},{"id":"vscode.debug-auto-launch","total":9887,"percentage":2},{"id":"vscode.emmet","total":792,"percentage":0},{"id":"vscode.git","total":19969,"percentage":4},{"id":"vscode.merge-conflict","total":1088,"percentage":0}]
+[2019-07-02 16:12:23.454] [renderer1] [info] Requested uninstalling the extension steoates.autoimport from window 1
+[2019-07-02 16:12:31.740] [renderer1] [error] Error: Error: ENOENT: no such file or directory, stat '/home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/.vscode'
+[2019-07-02 16:38:21.483] [renderer1] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at Y.getDataNode (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:963:433)
+    at Y.updateWidth (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:961:270)
+    at e.s.instantiationService.createInstance.e [as updateWidth] (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5301:532)
+    at i.elementDisposable.i.label.onDidRender (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5285:607)
+    at d.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:77:983)
+    at D.render (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:4424:576)
+    at D.notifyFileDecorationsChanges (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:4421:569)
+    at _widgets.forEach.t (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:4418:744)
+    at Array.forEach (<anonymous>)
+    at _register.decorationsService.onDidChangeDecorations.e (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:4418:731)
+    at e (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:74:369)
+    at d.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:77:983)
+    at setTimeout (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:74:652)

@@ -1,0 +1,33 @@
+--------------------------------------------------
+Moving /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/check-out -> /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/shopping/components/check-out
+--------------------------------------------------
+Files changed:
+/home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/app.module.ts
+--------------------------------------------------
+Moving:
+           /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/my-orders -> /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/shopping/components/my-orders
+           /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/order-success -> /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/shopping/components/order-success
+           /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/products -> /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/shopping/components/products
+--------------------------------------------------
+Files changed:
+/home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/app.module.ts
+--------------------------------------------------
+Moving /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/shipping-form -> /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/shopping/components/shipping-form
+--------------------------------------------------
+Files changed:
+/home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/app.module.ts
+--------------------------------------------------
+Moving:
+           /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/shopping-cart -> /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/shopping/components/shopping-cart
+           /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/shopping-cart-summary -> /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/shopping/components/shopping-cart-summary
+--------------------------------------------------
+Files changed:
+/home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/app.module.ts
+--------------------------------------------------
+Moving:
+           /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/bs-navbar -> /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/core/components/bs-navbar
+           /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/home -> /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/core/components/home
+           /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/login -> /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/core/components/login
+--------------------------------------------------
+Files changed:
+/home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/app.module.ts

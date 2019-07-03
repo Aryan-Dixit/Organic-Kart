@@ -1,0 +1,627 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/app/core/components/bs-navbar/bs-navbar.component.html
+> git ls-files --stage -- src/app/core/components/bs-navbar/
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/app/core/components/bs-navbar/bs-navbar.component.css
+> git ls-files --stage -- src/app/core/components/bs-navbar/
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/app/core/components/login/login.component.css
+> git ls-files --stage -- src/app/core/components/login/
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/app/core/components/bs-navbar/bs-navbar.component.html
+> git ls-files --stage -- src/app/core/components/bs-navbar/
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/app/shopping/components/my-orders/my-orders.component.ts
+> git ls-files --stage -- src/app/shopping/components/my-orders/
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/app/shopping/components/my-orders/my-orders.component.css
+> git ls-files --stage -- src/app/shopping/components/my-orders/
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/app/shopping/components/my-orders/my-orders.component.ts
+> git ls-files --stage -- src/app/shopping/components/my-orders/
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/app/shopping/components/my-orders/my-orders.component.html
+> git ls-files --stage -- src/app/shopping/components/my-orders/
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/app/shopping/components/my-orders/my-orders.component.spec.ts
+> git ls-files --stage -- src/app/shopping/components/my-orders/
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/app/core/components/bs-navbar/bs-navbar.component.html
+> git ls-files --stage -- src/app/core/components/bs-navbar/
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/app/shopping/components/my-orders/my-orders.component.ts
+> git ls-files --stage -- src/app/shopping/components/my-orders/
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/app/logout/logout.component.css
+> git ls-files --stage -- src/app/logout/
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/app/core/components/login/login.component.css
+> git ls-files --stage -- src/app/core/components/login/
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/app/logout/logout.component.css
+> git ls-files --stage -- src/app/logout/
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/app/core/components/bs-navbar/bs-navbar.component.html
+> git ls-files --stage -- src/app/core/components/bs-navbar/
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u

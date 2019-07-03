@@ -1,0 +1,15 @@
+--------------------------------------------------
+Moving:
+           /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/admin/admin-orders -> /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/admin/components/admin-orders
+           /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/admin/admin-products -> /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/admin/components/admin-products
+           /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/admin/product-form -> /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/admin/components/product-form
+--------------------------------------------------
+Files changed:
+/home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/app.module.ts
+--------------------------------------------------
+Moving:
+           /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/admin-auth-guard.service.spec.ts -> /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/admin/services/admin-auth-guard.service.spec.ts
+           /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/admin-auth-guard.service.ts -> /home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/admin/services/admin-auth-guard.service.ts
+--------------------------------------------------
+Files changed:
+/home/aryan/Accolite University/Angular 7.0 + FIREBASE/Organic Kart 1/O-Kart/src/app/app.module.ts
