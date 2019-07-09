@@ -1,5 +1,6 @@
 # Organic-Kart
 (Live Output: https://oshop-4ab13.firebaseapp.com)
+*Make Sure to refresh the webpage incase there's any 404 ERROR
 
 The Dependencies are completely extracted, along with registered in dependency files like '.json'.
 Run the Application directly inside O-Kart folder OR run command 'npm install' if depencied seems to be missing( this will automatically install all the dependencies).
