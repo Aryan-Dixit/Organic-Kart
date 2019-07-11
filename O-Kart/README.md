@@ -37,4 +37,4 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 Running end-to-end tests.
 Run `ng e2e` to execute the end-to-end tests via [Protractor]
 Before running the tests make sure you are serving the app via `ng serve`.
-'end to end' test were not dev by me, it was imported.
+'end to end' test were not dev, it's automatically imported via Angular.
